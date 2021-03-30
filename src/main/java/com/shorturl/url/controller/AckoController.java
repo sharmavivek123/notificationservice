@@ -1,7 +1,6 @@
 package com.shorturl.url.controller;
 
 import com.google.gson.Gson;
-import com.shorturl.url.model.LongUrl;
 import com.shorturl.url.model.TeamModel;
 import com.shorturl.url.service.TeamService;
 import org.springframework.beans.factory.annotation.Autowired;
